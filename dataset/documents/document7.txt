@@ -1,0 +1,1 @@
+Neural Networks are computing systems inspired by the human brain. They are used to identify patterns and solve complex problems.

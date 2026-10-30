@@ -1,0 +1,1 @@
+Natural Language Processing helps computers understand, interpret, and generate human language. It is used in chatbots and language translation.

@@ -1,0 +1,1 @@
+Computer Vision enables computers to understand images and videos. It is commonly used in facial recognition and object detection.
